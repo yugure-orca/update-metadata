@@ -1,0 +1,2 @@
+WhirlpoolPositionNFT_20230125.png: https://arweave.net/IoCThYGLz0Cb9Q4qNTq4hmD-_yNl71lOWBGafcbSPJw?ext=png
+WhirlpoolPositionNFT_20230125.metadata.json: https://arweave.net/SGhGXIUotyoCBqGOS_LqQSEZ2yC5QQO76NZewGGEo1o
