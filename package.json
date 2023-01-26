@@ -21,5 +21,8 @@
     "@orca-so/whirlpools-sdk": "0.8.0",
     "@metaplex-foundation/js": "0.11.7",
     "@metaplex-foundation/mpl-token-metadata": "2.5.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.18"
   }
 }
