@@ -13,7 +13,7 @@ const updateAuthorityKeypair = Keypair.fromSecretKey(new Uint8Array(UPDATE_AUTHO
 
 // METADATA (only URI is updated) //////////////////////////////////////////////
 // https://solscan.io/token/B2DZwMZaXeC32YnsW1UmzuNs26KVuGGn2PycvyfPCmU7#metadata
-const METADATA_NEW_URI = "https://arweave.net/SGhGXIUotyoCBqGOS_LqQSEZ2yC5QQO76NZewGGEo1o";
+const METADATA_NEW_URI = "https://arweave.net/E19ZNY2sqMqddm1Wx7mrXPUZ0ZZ5ISizhebb0UsVEws";
 
 const METADATA_NAME = "Orca Whirlpool Position";
 const METADATA_SYMBOL = "OWP";
