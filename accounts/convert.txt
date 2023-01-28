@@ -1,1 +1,2 @@
 cat whirlpool.173663999.position_mint_and_metadata.csv | awk -f csv2json.awk | jq > target.json
+cat all_position_accounts.20230128.csv | awk -f csv2json_all.awk | jq > target.json
